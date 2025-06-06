@@ -1,1 +1,1 @@
-# phase-1-array-map-method-labo
+# phase-1-array-map-method-lab
